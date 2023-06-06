@@ -1,0 +1,21 @@
+.star{
+    color: red;
+}
+.FL{
+    display: flex;
+    gap:15px
+}
+.email{
+    width:400px;
+}
+
+.checked{
+    color: gold;
+}
+
+p{
+    font-size: 13px;
+    margin-top: 1px;
+}
+
+
